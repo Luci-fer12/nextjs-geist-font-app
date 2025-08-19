@@ -1,0 +1,21 @@
+# Task Plan for Building Website
+
+## Step 1: Create Image Folder
+- Create a folder named `images` to store all the images.
+
+## Step 2: Create CSS File
+- Create a `styles.css` file for styling the HTML pages.
+
+## Step 3: Create HTML Files
+- Create separate HTML files for each image:
+  - index.html
+  - about.html
+  - music.html
+  - gigs.html
+  - contact.html
+
+## Step 4: Link CSS
+- Ensure each HTML file links to the `styles.css` file.
+
+## Step 5: Test
+- Verify that all pages render correctly and are styled consistently.
